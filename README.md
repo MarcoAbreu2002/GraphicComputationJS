@@ -56,7 +56,7 @@ using the 'W', 'A', 'S', 'D' keys.
 To install our project all it's needed is to clone the git repository, move into the project directory, install Vite node module globally to serve the files and install the node modules needed to run the project.
 
 ```bash
-$ git clone 
+$ git clone https://github.com/MarcoAbreu2002/GraphicComputationJS.git
 # Move in to the project directory
 $ npm i
 $ npm i vite -g
